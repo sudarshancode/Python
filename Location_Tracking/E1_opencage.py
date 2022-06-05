@@ -1,3 +1,6 @@
+#At first You should istall phonenumbers and opencage packeg.
+#Open your ter minal and type>(1) pip install phonenumbers and (2) pip install opencage
+
 import phonenumbers
 import opencage
 number=input("Enter your PhoneNumber With Country Code:")
